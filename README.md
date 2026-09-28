@@ -18,3 +18,7 @@ municipales, que asignan el presupuesto de señalización, control de velocidad 
 - Luna Rave
 - Jeffry Nuñez
 - Kevin Mejia
+
+## Link Notebook
+
+https://colab.research.google.com/drive/1Wuc4rgB3R8apfIgPLfom1Rlgl7dI_ngp?usp=sharing
